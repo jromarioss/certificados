@@ -75,4 +75,58 @@
 </a>
 <hr />
 
+###  - NodeJs B7Web
 
+<a href='https://alunos.b7web.com.br/media/certificates/certificado_4859136.jpg' target='_blanket'>
+  <img src='https://alunos.b7web.com.br/media/certificates/certificado_4859136.jpg' alt='Certificado' width='768' />
+</a>
+<hr />
+
+###  - Typescrip B7Web
+
+<a href='https://alunos.b7web.com.br/media/certificates/certificado_8759359.jpg' target='_blanket'>
+  <img src='https://alunos.b7web.com.br/media/certificates/certificado_8759359.jpg' alt='Certificado' width='768' />
+</a>
+<hr />
+
+###  - HTML5 e CSS3 B7Web
+
+<a href='https://alunos.b7web.com.br/media/certificates/certificado_4059818.jpg' target='_blanket'>
+  <img src='https://alunos.b7web.com.br/media/certificates/certificado_4059818.jpg' alt='Certificado' width='768' />
+</a>
+<hr />
+
+###  - Git/Github B7Web
+
+<a href='https://alunos.b7web.com.br/media/certificates/certificado_7990837.jpg' target='_blanket'>
+  <img src='https://alunos.b7web.com.br/media/certificates/certificado_7990837.jpg' alt='Certificado' width='768' />
+</a>
+<hr />
+
+###  - Javascript B7Web
+
+<a href='https://alunos.b7web.com.br/media/certificates/certificado_6650549.jpg' target='_blanket'>
+  <img src='https://alunos.b7web.com.br/media/certificates/certificado_6650549.jpg' alt='Certificado' width='768' />
+</a>
+<hr />
+
+###  - PHP B7Web
+
+<a href='https://alunos.b7web.com.br/media/certificates/certificado_2295860.jpg' target='_blanket'>
+  <img src='https://alunos.b7web.com.br/media/certificates/certificado_2295860.jpg' alt='Certificado' width='768' />
+</a>
+<hr />
+
+###  - Tailwind B7Web
+
+<a href='https://alunos.b7web.com.br/media/certificates/certificado_6521495.jpg' target='_blanket'>
+  <img src='https://alunos.b7web.com.br/media/certificates/certificado_6521495.jpg' alt='Certificado' width='768' />
+</a>
+<hr />
+
+###  - Docker B7Web
+
+<a href='https://alunos.b7web.com.br/media/certificates/certificado_1210253.jpg' target='_blanket'>
+  <img src='https://alunos.b7web.com.br/media/certificates/certificado_1210253.jpg' alt='Certificado' width='768' />
+</a>
+<hr />
