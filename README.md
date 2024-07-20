@@ -19,3 +19,10 @@
   <img src='https://udemy-certificate.s3.amazonaws.com/image/UC-a57fd99d-23c7-4c3a-bb88-a287662408fa.jpg' alt='Certificado' width='768' />
 </a>
 <hr />
+
+###  - C# Completo e Profissional
+
+<a href='https://udemy-certificate.s3.amazonaws.com/image/UC-3d7cc08f-a32e-476f-ae9d-02f360355191.jpg' target='_blanket'>
+  <img src='https://udemy-certificate.s3.amazonaws.com/image/UC-3d7cc08f-a32e-476f-ae9d-02f360355191.jpg' alt='Certificado' width='768' />
+</a>
+<hr />
