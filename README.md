@@ -26,3 +26,10 @@
   <img src='https://udemy-certificate.s3.amazonaws.com/image/UC-3d7cc08f-a32e-476f-ae9d-02f360355191.jpg' alt='Certificado' width='768' />
 </a>
 <hr />
+
+###  - Curso Web API ASP .NET Core Essencial (.NET 8)
+
+<a href='https://udemy-certificate.s3.amazonaws.com/image/UC-dddeac20-5954-4c62-bd8c-a7ae3a376097.jpg' target='_blanket'>
+  <img src='https://udemy-certificate.s3.amazonaws.com/image/UC-dddeac20-5954-4c62-bd8c-a7ae3a376097.jpg' alt='Certificado' width='768' />
+</a>
+<hr />
