@@ -47,3 +47,30 @@
   <img src='https://udemy-certificate.s3.amazonaws.com/image/UC-353f7ee4-01f9-429f-98a4-14c6499cd9d5.jpg' alt='Certificado' width='768' />
 </a>
 <hr />
+
+###  - Figma Rocketseat
+
+<a href='https://app.rocketseat.com.br/certificates/90884501-0ddb-4295-b422-51220661e96e' target='_blanket'>
+  Link para abrir o Certificado
+</a>
+<hr />
+
+###  - NodeJs Rocketseat
+
+<a href='https://app.rocketseat.com.br/certificates/81076f7b-a4de-4415-81c1-7bcff8521d1e' target='_blanket'>
+  Link para abrir o Certificado
+</a>
+<hr />
+
+###  - ReactJs Rocketseat
+
+<a href='https://app.rocketseat.com.br/certificates/46840e24-5709-42a7-ab78-9a93aac103f4' target='_blanket'>
+  Link para abrir o Certificado
+</a>
+<hr />
+
+###  - React Native Rocketseat
+
+<a href='https://app.rocketseat.com.br/certificates/247c2924-7015-44cd-92ae-cd631df91134' target='_blanket'>
+  Link para abrir o Certificado
+</a>
