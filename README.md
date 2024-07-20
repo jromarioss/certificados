@@ -33,3 +33,17 @@
   <img src='https://udemy-certificate.s3.amazonaws.com/image/UC-dddeac20-5954-4c62-bd8c-a7ae3a376097.jpg' alt='Certificado' width='768' />
 </a>
 <hr />
+
+###  - NestJS Fundamentos
+
+<a href='https://udemy-certificate.s3.amazonaws.com/image/UC-d2d04a4a-7289-495b-afbb-f7e9bc496cb5.jpg' target='_blanket'>
+  <img src='https://udemy-certificate.s3.amazonaws.com/image/UC-d2d04a4a-7289-495b-afbb-f7e9bc496cb5.jpg' alt='Certificado' width='768' />
+</a>
+<hr />
+
+###  - Curso de ASP .NET Core MVC - Criando um Site do Zero (NET 6)
+
+<a href='https://udemy-certificate.s3.amazonaws.com/image/UC-353f7ee4-01f9-429f-98a4-14c6499cd9d5.jpg' target='_blanket'>
+  <img src='https://udemy-certificate.s3.amazonaws.com/image/UC-353f7ee4-01f9-429f-98a4-14c6499cd9d5.jpg' alt='Certificado' width='768' />
+</a>
+<hr />
